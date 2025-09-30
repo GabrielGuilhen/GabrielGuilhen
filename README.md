@@ -5,7 +5,7 @@ Apaixonado por tecnologia, código e aprendizado contínuo.
 
 ## 🚀 Skills Técnicas
 - **Python**
-- **React**
+- **Java Script**
 - **MySQL**
 - **PHP**
 
