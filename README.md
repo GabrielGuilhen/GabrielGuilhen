@@ -27,5 +27,3 @@ Possuo habilidades sociais focadas em comunicação e construção de bons relac
 - [LinkedIn](https://br.linkedin.com/in/gabriel-guilhen-9620392b2)
 
 ---
-
-> “Sempre avançando — seja no tatame, na bike ou no código.”
