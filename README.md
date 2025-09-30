@@ -1,7 +1,6 @@
 # Olá, eu sou Gabriel Guilhen 👋
 
 **Estudante de Análise e Desenvolvimento de Sistemas**  
-Apaixonado por tecnologia, código e aprendizado contínuo.
 
 ## 🚀 Skills Técnicas
 - **Python**
@@ -19,7 +18,7 @@ Apaixonado por tecnologia, código e aprendizado contínuo.
 ## 👤 Sobre Mim
 
 Ex-atleta de judô, apaixonado por ciclismo e corrida. Também treino musculação.  
-Sou comunicativo, direto e valorizo ética, resiliência e coragem.  
+Sou comunicativo, direto, valorizo ética, resiliência e coragem.  
 Possuo habilidades sociais focadas em comunicação e construção de bons relacionamentos.
 
 ## 🌐 Conecte-se comigo
