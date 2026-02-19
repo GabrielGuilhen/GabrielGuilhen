@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Guilhen 👋
 
-**Estudante de Análise e Desenvolvimento de Sistemas**  
+**Técnico em Desenvolvimento de Sistemas**  
 
 ## 🚀 Skills Técnicas
 - **Python**
